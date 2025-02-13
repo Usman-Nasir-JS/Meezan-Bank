@@ -1,0 +1,58 @@
+.bg-purple{
+    background-color: #800080;
+}
+.text-purple{
+    color: #800080;
+}
+.bg-gray{
+    background-color: #ebebeb;
+}
+.fs-small{
+    font-size: 0.8rem;
+}
+.set-bar{
+    padding: 10px 12px;
+    margin-left: 220px;
+}
+.set-small{
+    padding: 15px 0px;
+}
+.padding-20t{
+    padding-top: 20px;
+}
+
+.padding-top{
+    padding-top: 50px;
+}
+
+.padding{
+    padding: 40px;
+}
+
+.set-btn{
+    padding: 40px;
+    border-radius: 60px;
+    background-color: rgb(139, 117, 139);
+    margin-bottom: 10px;
+}
+.gap-10{
+    gap: 10px;
+}
+
+.margin{
+    margin: 20px;
+}
+
+.dark-purple{
+    color: rgb(77, 0, 77);
+    cursor: col-resize;
+}
+
+#circule :hover {
+    background-color: rgb(255, 196, 0);
+    color: black;
+}
+
+.pointer{
+    cursor: pointer;
+}
