@@ -1,22 +1,28 @@
 .bg-purple{
     background-color: #800080;
 }
+
 .text-purple{
     color: #800080;
 }
+
 .bg-gray{
     background-color: #ebebeb;
 }
+
 .fs-small{
     font-size: 0.8rem;
 }
+
 .set-bar{
     padding: 10px 12px;
     margin-left: 220px;
 }
+
 .set-small{
     padding: 15px 0px;
 }
+
 .padding-20t{
     padding-top: 20px;
 }
@@ -35,6 +41,7 @@
     background-color: rgb(139, 117, 139);
     margin-bottom: 10px;
 }
+
 .gap-10{
     gap: 10px;
 }
